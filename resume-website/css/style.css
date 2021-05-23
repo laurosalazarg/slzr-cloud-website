@@ -652,7 +652,7 @@ span.sub-item-title {
 	color: #555;
 	font-weight: 600;
 	margin-top:40px;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
 .chart-bar > .percent {
     border: 1px solid #e33324;
@@ -895,7 +895,11 @@ p.client_name span{
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
+
+	/* HEADER BACKGROUND IMAGE */
     background-image: url(../images/story-bg.jpg);
+
+	 
 }
 .story-area::before {
     left: 0;
