@@ -49,7 +49,7 @@
     "gulp-append-prepend": "1.0.8"
   },
   "description": "my personal website",
-  "main": "assets/scss/style.scss",
+  "main": "resume-website-inbio/assets/scss/style.scss",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/laurosalazarg/slzr-cloud-web.git"
