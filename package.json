@@ -17,12 +17,12 @@
   },
 
   "description": "my personal website",
-  "main": "resume-website-inbio/assets/scss/style.scss",
+  "main": "resume-website-inbio/index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/laurosalazarg/slzr-cloud-web.git"
   },
-  
+
   "author": "Lauro Salazar",
   "license": "MIT",
   "bugs": {
