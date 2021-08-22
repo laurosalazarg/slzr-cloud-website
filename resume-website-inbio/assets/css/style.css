@@ -912,7 +912,7 @@ ol ul {
 }
 
 .mt--40 {
-  margin-top: 40px !important;
+   /* margin-top: 40px !important; */
 }
 
 .mb--40 {
@@ -7636,7 +7636,7 @@ textarea:-ms-input-placeholder {
 }
 
 .liststyle {
-  padding: 0;
+  padding: 10px;
   list-style: none;
 }
 
@@ -11568,9 +11568,9 @@ body.template-color-1 {
 }
 
 .social-share-style-1 {
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  /* border-top: 1px solid rgba(255, 255, 255, 0.1);
   padding-top: 20px;
-  margin-top: 100px !important;
+  margin-top: 5px !important; */
 }
 
 .social-share-style-1 .social-share li {
