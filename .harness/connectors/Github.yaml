@@ -1,12 +1,11 @@
 connector:
   name: Github-website
   identifier: Github
-  description:
   orgIdentifier: default
   projectIdentifier: website
   type: Github
   spec:
-    url: https://github.com/laurosalazarg/slzr-cloud-website/tree/master/resume-website-inbio
+    url: https://github.com/laurosalazarg/slzr-cloud-website.git
     validationRepo: https://github.com/laurosalazarg/slzr-cloud-website.git
     authentication:
       type: Http
