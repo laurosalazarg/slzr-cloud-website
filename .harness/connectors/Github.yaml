@@ -6,7 +6,7 @@ connector:
   projectIdentifier: website
   type: Github
   spec:
-    url: https://github.com/laurosalazarg/slzr-cloud-website.git
+    url: https://github.com/laurosalazarg/slzr-cloud-website/tree/master/resume-website-inbio
     validationRepo: https://github.com/laurosalazarg/slzr-cloud-website.git
     authentication:
       type: Http
