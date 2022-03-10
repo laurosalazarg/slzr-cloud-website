@@ -1,0 +1,12 @@
+connector:
+  name: aus-workload
+  identifier: ausworkload
+  description:
+  orgIdentifier: default
+  projectIdentifier: website
+  type: K8sCluster
+  spec:
+    credential:
+      type: InheritFromDelegate
+    delegateSelectors:
+    - harness-k8s
